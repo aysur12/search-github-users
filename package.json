@@ -36,6 +36,7 @@
     "@types/react-dom": "18.0.6",
     "generate-react-cli": "^7.3.0",
     "sass": "^1.54.5",
-    "typescript": "4.4.2"
+    "typescript": "4.4.2",
+    "typescript-plugin-css-modules": "^4.2.2"
   }
 }

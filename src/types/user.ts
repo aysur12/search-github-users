@@ -23,13 +23,14 @@ export type GitHubUser = {
   blog: string;
   location: string;
   bio: string;
+  twitter: string;
   public_repos: number;
   followers: number;
   following: number;
   created_at: string;
 };
 
-export type GitHubUserError = {
+export type GitHubError = {
   message: string;
   documentation_url: string;
 };
